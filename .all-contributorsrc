@@ -58,6 +58,34 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Rokr0k",
+      "name": "Rok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35794170?v=4",
+      "profile": "http://rokr0k.tk",
+      "contributions": [
+        "platform"
+      ]
+    },
+    {
+      "login": "adp-study",
+      "name": "adp-study",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59760424?v=4",
+      "profile": "https://github.com/adp-study",
+      "contributions": [
+        "infra",
+        "bug"
+      ]
+    },
+    {
+      "login": "noname0310",
+      "name": "noname",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48761044?v=4",
+      "profile": "https://www.youtube.com/c/noname0310",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

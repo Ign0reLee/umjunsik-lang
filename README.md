@@ -1,6 +1,6 @@
 > 어디선가 유입이 자꾸 들어오고 있는것같은데.. 혹시 시간 되신다면 어디쪽 링크 통해서 들어오셨는지 기재 부탁드리겠습니다. [어떻게 엄랭을 발견하셨나요..!](https://github.com/rycont/umjunsik-lang/issues/1)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rycont/umjunsik-lang)
@@ -24,6 +24,11 @@
     <td align="center"><a href="https://github.com/AkiaCode"><img src="https://avatars0.githubusercontent.com/u/71239005?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aki</b></sub></a><br /><a href="https://github.com/rycont/umjunsik-lang/commits?author=AkiaCode" title="Code">💻</a></td>
     <td align="center"><a href="https://info.tim23.me"><img src="https://avatars1.githubusercontent.com/u/64291996?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tim232</b></sub></a><br /><a href="https://github.com/rycont/umjunsik-lang/commits?author=Tim232" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Ign0reLee"><img src="https://avatars.githubusercontent.com/u/46403849?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JeYoung</b></sub></a><br /><a href="https://github.com/rycont/umjunsik-lang/commits?author=Ign0reLee" title="Code">💻</a></td>
+    <td align="center"><a href="http://rokr0k.tk"><img src="https://avatars.githubusercontent.com/u/35794170?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rok</b></sub></a><br /><a href="#platform-Rokr0k" title="Packaging/porting to new platform">📦</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/adp-study"><img src="https://avatars.githubusercontent.com/u/59760424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>adp-study</b></sub></a><br /><a href="#infra-adp-study" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/rycont/umjunsik-lang/issues?q=author%3Aadp-study" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://www.youtube.com/c/noname0310"><img src="https://avatars.githubusercontent.com/u/48761044?v=4?s=100" width="100px;" alt=""/><br /><sub><b>noname</b></sub></a><br /><a href="https://github.com/rycont/umjunsik-lang/commits?author=noname0310" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -134,6 +139,8 @@
 - [노드JS](https://github.com/rycont/umjunsik-lang/tree/master/umjunsik-lang-node) : Deno 구현체의 NodeJS 포트버전입니다.
 - [파이썬](https://github.com/rycont/umjunsik-lang/tree/master/umjunsik-lang-python)
 - [웹-엄](https://github.com/rycont/umjunsik-lang/tree/master/umjunsik-lang-web) : PMH님이 [호스팅해주시고 있습니다🎉](https://static.pmh.codes/umjunsik-lang/umjunsik-lang-web/)
+- [C](https://github.com/rycont/umjunsik-lang/tree/master/umjunsik-lang-cc)
+- [C#](https://github.com/rycont/umjunsik-lang/tree/master/umjunsik-lang-csharp)
 
 # 예제
 
@@ -160,7 +167,9 @@
   1. `동탄?` 설명 추가
   1. `화이팅!` 설명 변경
   1. 지시문들을 별도의 단락으로 분리
-- 20200912 : [WIP] 99병의 맥주 예제 작업중
+- 20200912 : 99병의 맥주 예제
 - 20200915 : 엄랭v2-엄랭노드 구현체 배포
 - 20201017 : 엄랭v2-파이썬 구현체 배포 by [Steve28](https://github.com/pl-Steve28-lq)
 - 20201105 : 웹-엄: 자바스크립트로 된 엄랭 처리기(웹런타임) 배포 by [PMH](https://github.com/pmh-only)
+- 20210530 : 엄씨(엄랭-C 컴파일러) 배포 by [Rok](https://github.com/Rokr0k)
+- 20210809 : 엄랭 C# 구현체 배포 by [noname0310](https://github.com/noname0310)
