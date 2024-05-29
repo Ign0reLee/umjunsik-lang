@@ -95,6 +95,153 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "sangchoo1201",
+      "name": "sangchoo1201",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75765800?v=4",
+      "profile": "https://github.com/sangchoo1201",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "shs3182ym",
+      "name": "Sukuna Shinmyoumaru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56759376?v=4",
+      "profile": "http://warning.or.kr",
+      "contributions": [
+        "platform"
+      ]
+    },
+    {
+      "login": "alvin1007",
+      "name": "Yeong Jae Cho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77112874?v=4",
+      "profile": "https://github.com/alvin1007",
+      "contributions": [
+        "platform"
+      ]
+    },
+    {
+      "login": "kiwiyou",
+      "name": "kiwiyou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12986388?v=4",
+      "profile": "http://kiwiyou.dev",
+      "contributions": [
+        "platform"
+      ]
+    },
+    {
+      "login": "kyle-seongwoo-jun",
+      "name": "Kyle Seongwoo Jun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16515307?v=4",
+      "profile": "https://seongxwoo.notion.site/Kyle-b49a1520f7ea4d5a86acedcf201129f6",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "sean9892",
+      "name": "Yubin Choi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46587635?v=4",
+      "profile": "https://github.com/sean9892",
+      "contributions": [
+        "example"
+      ]
+    },
+    {
+      "login": "Baekjoon",
+      "name": "Baekjoon Choi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/706317?v=4",
+      "profile": "https://www.acmicpc.net",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "EGGnmad",
+      "name": "ㅇㅂㅎ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93484785?v=4",
+      "profile": "https://eggnmad.com/info/",
+      "contributions": [
+        "example"
+      ]
+    },
+    {
+      "login": "pizzaroot",
+      "name": "pizzaroot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17989599?v=4",
+      "profile": "https://github.com/pizzaroot",
+      "contributions": [
+        "platform"
+      ]
+    },
+    {
+      "login": "depth221",
+      "name": "Dongha Hwang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22697167?v=4",
+      "profile": "https://luxurycoop.tistory.com/",
+      "contributions": [
+        "example",
+        "bug"
+      ]
+    },
+    {
+      "login": "PersesTitan",
+      "name": "PersesTitan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97427878?v=4",
+      "profile": "https://github.com/PersesTitan",
+      "contributions": [
+        "platform",
+        "bug"
+      ]
+    },
+    {
+      "login": "kongchu2",
+      "name": "JunHyeok Hong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48686444?v=4",
+      "profile": "http://codeup.kr/userinfo.php?user=qwerty5233",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "happy-spark",
+      "name": "happy-spark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107300540?v=4",
+      "profile": "https://github.com/happy-spark",
+      "contributions": [
+        "example"
+      ]
+    },
+    {
+      "login": "kms0219kms",
+      "name": "Minsu Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67222970?v=4",
+      "profile": "https://sskate.me",
+      "contributions": [
+        "platform",
+        "design"
+      ]
+    },
+    {
+      "login": "jerryjungwh",
+      "name": "JerryJung",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16649567?v=4",
+      "profile": "https://www.youtube.com/@comgongbro",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Hiyabye",
+      "name": "Jihoon Lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50550999?v=4",
+      "profile": "https://github.com/Hiyabye",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -102,5 +249,7 @@
   "projectOwner": "rycont",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
